@@ -10,6 +10,7 @@ public class UsoOrdenamiento {
 		int tamano=0,i,clave,posicion;
 		Ordenamiento ordena=new Ordenamiento();
 		Busqueda buscar=new Busqueda();
+		System.out.println("Holaaaa mundoooo");
 		tamano=ingresoTeclado("Ingrese el tamaño del vector");
 		for(i=0;i<tamano;i++)
 		{
